@@ -1,12 +1,8 @@
-<svg width="200" height="50">
-  <text x="10" y="40" font-size="35" fill="#0000FF">
-    HELLO,
-  </text>
-  <text x="100" y="40" font-size="35" fill="#00FF00">
-    THERE
-  </text>
-  <animate attributeName="x" from="10" to="100" dur="1s" repeatCount="indefinite" />
-</svg>
+# Hello, I'm Vinul 👋
+
+I'm Vinul Puldith Hewa Gajaman, a passionate full-stack developer with a focus on creating dynamic, user-centric web applications.
+
+![Profile Views](https://komarev.com/ghpvc/?username=VinulGajaman&color=blueviolet)
 
 ###
 
