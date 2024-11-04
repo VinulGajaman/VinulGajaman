@@ -100,9 +100,6 @@
 <h3 align="left">Hello! I'm Vinul Puldith Hewa Gajaman, but you can call me Vinul. I'm a dedicated and passionate full-stack developer with a strong focus on creating dynamic, user-centric web applications that solve real-world problems and deliver exceptional user experiences. My journey in software development has equipped me with a broad skill set across both front-end and back-end technologies, with a constant drive to learn, adapt, and innovate.<br><br>🔧 Technologies & Skills:<br>- Front-End: React.js, Tailwind CSS, Material-UI (MUI), TypeScript, Redux<br>- Back-End: Spring Boot, REST APIs, Java, Postman (for API testing)<br>- Database: MySQL, PostgreSQL, FireBase<br>- Other Tools: Git, Formik, Moment.js, Jasper Reports, Android Java, Java Swing</h3>
 
 
-![Snake animation](https://raw.githubusercontent.com/VinulGajaman/output/snake.svg)
-
-
 ###
 
 ###
