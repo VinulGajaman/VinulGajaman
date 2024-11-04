@@ -2,7 +2,9 @@
 
 I'm Vinul Puldith Hewa Gajaman, a passionate full-stack developer with a focus on creating dynamic, user-centric web applications.
 
+<div align="center" width="12" height="20">
 ![Profile Views](https://komarev.com/ghpvc/?username=VinulGajaman&color=blueviolet)
+</div>
 
 ###
 
