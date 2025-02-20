@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1500&color=00BFA6&center=true&vCenter=true&width=1100&height=100&lines=Hey+%2C+I'm+Vinul+Gajaman+%F0%9F%91%BB;Full-stack+Developer+%7C+Tech+Enthusiast+%F0%9F%92%BB;Passionate+about+building+scalable+web+apps+%F0%9F%9A%80;Exploring+cutting-edge+UI%2FUX+designs+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1200&color=00FFD1&center=true&vCenter=true&width=1100&height=100&lines=Hey+%2C+I'm+Vinul+Gajaman+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full-stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Building+Scalable+Web+Apps+%E2%9C%94%EF%B8%8F;Exploring+Modern+UI%2FUX+%F0%9F%8C%9F;Passionate+About+Innovation+%F0%9F%A4%96)](https://git.io/typing-svg)
+
 
 
 
