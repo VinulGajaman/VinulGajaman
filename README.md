@@ -22,7 +22,7 @@ status     : Open to opportunities 🟢
 ### `> currently`
 
 ```bash
-$ building   → cloud-native microservices (Spring Boot + NestJS)
+$ building   → cloud-native microservices
 $ exploring  → Kotlin + Jetpack Compose for Android
 $ deploying  → Docker · Kubernetes · Azure
 $ learning   → distributed systems & system design
